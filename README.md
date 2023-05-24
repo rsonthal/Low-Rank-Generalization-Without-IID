@@ -1,9 +1,7 @@
 # Generalization Error without Independence: Denoising, Linear Regression, and Transfer Learning
 
-The codes are implemented in Python version 3.10.11 using Google Colaboratory. The details about the experiments are provided in the paper and Appendix F. To get started, you can clone the project with 
-```
-git clone git@github.com:rsonthal/Low-Rank-Generalization-Without-IID.git
-```
+The codes are implemented in Python version 3.10.11 using Google Colaboratory. The details about the experiments are provided in the paper and Appendix F. 
+
 The jupyter notebooks contain codes for importing required libraries and datasets through PyTorch. The different figures and data can be produced using the notebooks as follows: 
 
 * TransferLearning_GeneralizationError.ipynb
